@@ -27,4 +27,4 @@
 
 Запустите скрипт:
 ```bash
-display_time_date.sh
+./display_time_date.sh
